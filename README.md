@@ -26,4 +26,4 @@ conhecimentos de HTML e CSS, ao passo que se torna uma ferramenta de apresentaç
 
 ##  Link
 
-https://calebe-fernandes.github.io/portfolio/
+https://calebe-fernandes.github.io/portfolio/index.html
