@@ -25,5 +25,4 @@ Este projeto foi construído durante a primeira semana do Bootcamp LaunchBase da
 conhecimentos de HTML e CSS, ao passo que se torna uma ferramenta de apresentação dos projetos que realizei.
 
 ##  Link
-
-https://calebe-fernandes.github.io/Portfolio/
+https://calebe-fernandes.github.io/portfolio/index.html
